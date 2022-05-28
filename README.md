@@ -5,7 +5,6 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with：Java Background development of the summary of interview questions
 - 💬 About me：outging、humorous and sincere boy
-- 📫 How to reach me: QQ:2200838299
 - :runner: Favorite sports: badminton、run
 - ⚡ Fun fact: join GitHub
 
